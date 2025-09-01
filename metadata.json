@@ -1,0 +1,5 @@
+{
+  "name": "PingRight Brand Console",
+  "description": "A web dashboard for brands to manage notification campaigns on the PingRight platform. Brands can create campaigns, set bids, view analytics, and manage their wallet.",
+  "requestFramePermissions": []
+}
